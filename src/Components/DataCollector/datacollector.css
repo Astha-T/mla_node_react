@@ -1,0 +1,347 @@
+body {
+  background-color: #F8F8F8 !important;
+  margin-bottom: 10px !important;
+}
+
+.containerAddData {
+  margin-bottom: 10px !important;
+}
+
+.headingAddData, .headingViewData, .headingViewData2, .assignheading{
+    width: '50%' !important;
+    height: 38px;
+    /* margin-left: 17.5% !important; */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 15px;
+    line-height: 16px;
+    /* or 107% */
+    display: flex;
+  
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.headingAddData{
+  
+   top: 15%;
+}
+
+.headingViewData, .headingViewData2{
+  top: 0.5%;
+}
+
+.headingViewData2{
+  margin-left: 0.5%;
+}
+
+.boxleft{
+  margin-top: -8%;;
+}
+
+.itemview{
+  width: 100%;
+}
+
+.submitbtndata, .submitbtnassign {
+  width: 100px;
+  height: 38px;
+  margin-top: 4% !important;
+  margin-bottom: 5%;
+  font-family: 'Poppins';
+  right: 5px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  /* or 146% */
+  border: none;
+  display: flex;
+  align-items: center;
+  text-align: center !important;
+  border-radius: 11px;
+  float: right !important;
+}
+
+.subtitle, .subtitleassign{
+  float: left;
+  margin-top: 2% !important;
+  font-family: 'Poppins' !important;
+font-style: normal;
+font-weight: 550 !important;
+font-size: 14px !important;
+line-height: 19px;
+/* or 136% */
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+}
+
+.subtitle{
+  margin-left: 3% !important;
+  margin-bottom: 1% !important;
+}
+
+.subtitleassign{
+  margin-left: 1% !important;
+  margin-bottom: 0% !important;
+}
+
+.adddatatext{
+   width: 90%;
+   height: 40px;
+   font-size: 15px !important;
+   font-family: 'Poppins' !important;
+   left: 5%;
+   margin-right: 7%;
+   margin-bottom: 5% !important;
+   border-radius: 29px !important;
+}
+
+.subtitle1{
+  margin-bottom: 0px !important;
+  color: gray !important;
+  font-size: 15px !important;
+  bottom: 0 !important;
+  font-family: 'Poppins' !important;
+  text-align: left !important;
+  padding-left: 5% !important;
+}
+
+.MuiTypography-root{
+  font-family: 'Poppins' !important;
+}
+
+.subtitle2{
+  margin-bottom: 5px !important;
+  font-size: 15px !important;
+  font-family: 'Poppins' !important;
+  text-align: left !important;
+  font-weight: 550 !important;
+  padding-left: 5% !important;
+
+}
+
+
+.grid3{
+  margin-top: 10% !important;
+  background-color: #FFFFFF;
+  border-radius: 20px;
+}
+
+
+  .optionsform1, .optionsform{
+    min-width: 100% !important;
+  }
+
+.containerview {
+  height: fit-content;
+  max-width: 78% !important;
+  border-radius: 37px !important;
+  margin-top: 3%!important;
+}
+
+.dataedit, .dataadd{
+  position: absolute !important;
+    width: 100%;
+    background-color: #FFFFFF !important;
+    border-radius: '30px' !important;
+    margin-bottom: 5% !important;
+}
+
+.outerboxview{
+  position: absolute !important;
+    width: 120% !important;
+    background-color: #FFFFFF !important;
+}
+
+.datasubmitbtn{
+  top: 0% !important;
+  width: 100px;
+  border-radius: 7px;
+  background-color: "#7041EE" !important;
+  margin-top: 2%;
+  border-radius: 7px;
+}
+
+/* .MuiInputBase-input{
+  font-size: 15px !important;
+  width: 300px !important;
+  border-radius: 9px !important;
+  border-color: #000000 !important;
+  font-size: 15px !important;
+  font-family: 'Poppins' !important;
+} 
+
+.MuiInputBase-input:hover{
+  border-color: #000000 !important;
+} */
+
+.editdatalabel{
+  font-size: 13px !important;
+  margin-left: 6.5% !important;
+  color: #000000 !important;
+  opacity: 0.5;
+}
+
+.editdatalabeladd{
+  font-size: 13px !important;
+  margin-left: 15% !important;
+  color: #000000 !important;
+  opacity: 0.5;
+}
+
+.assignbutton{ 
+  margin-top: 2% !important;
+  margin-right: 2% !important;
+  height: 50px;
+  border: 1px solid #CBCBCB;
+  border-radius: 39px !important;
+  display: inline !important;
+  text-align: center;
+  padding: 8px;
+ 
+}
+.boothbtn{
+  overflow: hidden;
+  max-height: 250px;
+}
+
+@media only screen and (max-width: 600px)
+{
+  .containerview{
+    margin-left: 0% !important;
+    max-width: 100% !important;
+  }
+
+  .dataedit{
+    width: 100% !important;
+    left: 0px !important;
+    margin-top: 5%;
+    /* height: 810px; */
+  }
+
+  .dataadd{
+    width: 97% !important;
+    left: 1% !important;
+    margin-top: 5%;
+    /* height: 620px; */
+  }
+
+  .subtitle2{
+    left: 0%;
+    margin-left: 0% !important;
+  }
+  
+  .containerAddData{
+    left: 0px;
+  }
+
+  .editdatalabel{
+    margin-bottom: 2% !important;
+  }
+
+  .headingAddData{
+    margin-left: 2% !important;
+    margin-top: 7% !important;
+  }
+ 
+  .headingViewData{
+    top: 0% !important;
+    margin-top: 0% !important;
+    margin-left: 5%;
+  }
+
+  .headingViewData2{
+    margin-top: 5%;
+    margin-left: 5%;
+  }
+
+  .assignheading{
+
+    margin-left: 2%;
+    margin-bottom: 5% !important;
+  }
+
+  #dataheading{
+    margin-top: -7% !important;
+  }
+
+  .subtitle{
+    margin-left: 7% !important;
+    margin-bottom: 5% !important;
+  }
+
+  .subtitleassign{
+    margin-bottom: 0%;
+    margin-left: 2% !important;
+  }
+
+  .grid3{
+    margin-left: 1.5% !important;
+    margin-top: 12% !important;
+  }
+
+  .submitbtndata{
+    margin-top: 35% !important;
+    margin-bottom: 5% !important ;
+  }
+
+  .submitbtnassign{
+    margin-top: 10% !important;
+    margin-bottom: 5% ;
+  }
+  
+}
+
+@media only screen and (min-width: 760px) and (max-width: 900px){
+ 
+  .headingAddData{
+    margin-left: 22%;
+   top: 8% !important;
+  }
+
+  .dataedit, .dataadd{
+    width: 86%;
+    margin-left: 4%;
+    margin-bottom: 5%;
+  }
+
+  .containerview{
+    margin-left: 20% !important;
+  }
+
+  .itemview{
+    width: 138%;
+  }
+}
+
+@media only screen and (min-width: 910px) and (max-width: 1200px){
+ 
+  .headingAddData{
+    margin-left: 22%;
+   top: 8% !important;
+  }
+
+  .dataedit, .dataadd{
+    width: 86%;
+    margin-left: 4%;
+    margin-bottom: 5%;
+  }
+
+  .containerview{
+    margin-left: 20% !important;
+  }
+
+  .itemview{
+    width: 120%;
+  }
+
+  .boxright{
+    width: 130%;
+  }
+
+}

@@ -1,0 +1,127 @@
+
+body {
+    background-color: #F8F8F8 !important;
+  }
+
+.box {
+    margin-top: 20px;
+    margin-right: 2%;
+    margin-bottom: 5%;
+}
+
+.item{
+    height: 120px !important;
+}
+
+.image1 {
+    height: 56px;
+    width: 53px;
+}
+
+.searchbar {
+
+    margin-left: 200px !important;
+    width: 275px !important;
+    margin-top: 5.14% !important;
+    bottom: 93.24%;
+    /* height: 39px !important; */
+    border: 1px solid #CFD2D5 !important;
+    border-radius: 37px !important;
+}
+
+/* .MuiPaper-root {
+    border-radius: 23px !important;
+     width: 211px !important; 
+    text-align: center !important;
+    align-items: center !important;
+
+} */
+
+.MuiPaper-root .title2 {
+    text-align: center !important;
+    align-items: center !important;
+}
+
+.MuiTypography-root{
+    font-family: 'Poppins' !important;
+}
+
+
+.MuiTypography-root {
+    text-align: center !important;
+    align-items: center !important;
+}
+
+.heading2 {
+    width: 80% !important;
+    margin-left: 1.5% !important;
+    margin-top: 1%;
+    font-family: 'Poppins' ;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 15px;
+    line-height: 16px;
+    /* or 107% */
+    display: flex;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.title2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    /* or 100% */
+    left: 0;
+    margin-left: 0%;
+    text-align: justify !important;
+    display: flex;
+    align-items: justify !important;
+    text-transform: capitalize;
+    margin-top: 10px;
+    color: #000000;
+
+}
+
+.css-189vhf1-MuiGrid-root {
+    max-width: 19% !important;
+    float: left !important;
+}
+
+.switch {
+    color: #000000;
+    text-decoration: none !important;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .title2
+     {
+        margin-left: 0%;
+        padding-left: 0;
+        align-content: center;
+        text-align: center;
+        padding: 0%;
+    }
+
+    .box {
+        margin-top: 20px !important;
+    }
+
+    .heading2 {
+        margin-left: 10% !important;
+        text-align: center !important;
+        align-items: center !important;
+        margin-top: 5% !important;
+    }
+}
+
+@media only screen and (max-width: 950px)
+{
+    .heading2{
+        top: 8% !important;
+        left: 0% !important
+    }
+}

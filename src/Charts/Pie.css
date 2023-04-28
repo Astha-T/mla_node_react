@@ -1,0 +1,41 @@
+.piecharttitle{
+    font-size: 18px !important;
+    color: black !important;
+    font-family: 'Poppins' !important;
+    text-align: left !important;
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2.4%;
+    margin-left: 2%;
+}
+
+.piecharttitle2{
+    font-size: 18px !important;
+    color: black !important;
+    font-family: 'Poppins' !important;
+    text-align: left !important;
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2.4%;
+    margin-left: 2%;
+}
+
+.marginRujhaan{
+    margin-bottom: 7% !important;
+    height: 89%;
+}
+
+.marginChart{
+    margin-bottom: 7% !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .piecharttitle2{
+        padding-top: 0%;
+    }
+
+    .marginRujhaan{
+        height: 75%;
+    }
+}
+

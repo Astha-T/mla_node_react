@@ -1,0 +1,286 @@
+body {
+  background-color: #F8F8F8 !important;
+  font-family: 'Poppins' !important;
+}
+
+.containerdash {
+  margin-bottom: 15px !important;
+}
+
+.headingdash {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 530;
+  font-size: 20px;
+  line-height: 16px;
+  margin-top: 30px !important;
+  margin-left: 2%;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+.boxrujhaan {
+  width: 100%;
+  margin-bottom: 6% !important;
+  font-family: 'Poppins';
+}
+
+.box3 {
+  width: 125% !important;
+}
+
+.rujhaan1 {
+  background: #FDF8E2 !important;
+  height: 150px !important;
+  box-shadow: 0px 4px 42px rgba(0, 0, 0, 0.03) !important;
+  border-radius: 23px !important;
+  margin-left: 0%;
+  margin-top: 5% !important;
+  font-family: 'Poppins' !important;
+}
+
+.rujhaan2 {
+  background: #DBF7E9 !important;
+  height: 150px !important;
+  box-shadow: 0px 4px 42px rgba(0, 0, 0, 0.03) !important;
+  border-radius: 23px !important;
+  margin-left: 0%;
+  margin-top: 5% !important;
+  font-family: 'Poppins' !important; 
+}
+
+.rujhaan3 {
+  background: #FFE1E2 !important;
+  height: 150px !important;
+  box-shadow: 0px 4px 42px rgba(0, 0, 0, 0.03) !important;
+  border-radius: 23px !important;
+  margin-left: 0%;
+  margin-top: 5% !important;
+}
+
+.partyboxes {
+  height: 90%;
+  width: 130% ;
+  box-shadow: 0px 4px 42px rgba(0, 0, 0, 0.03) !important;
+  border-radius: 23px !important;
+  bottom: 10px !important;
+  margin-bottom: 25% !important;
+}
+
+.percentage {
+  font-family: 'Poppins';
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 40px !important;
+  line-height: 16px !important;
+  /* or 32% */
+  vertical-align: middle !important;
+  margin-top: 10% !important;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+
+  color: #B76D00 !important;
+}
+
+.percentage2 {
+  font-family: 'Poppins';
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 50px !important;
+  line-height: 16px !important;
+  /* or 32% */
+  vertical-align: middle !important;
+  margin-top: 10% !important;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+
+  color: #03C39A !important;
+}
+
+.percentage3 {
+  font-family: 'Poppins';
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 50px !important;
+  line-height: 16px !important;
+  /* or 32% */
+  vertical-align: middle !important;
+  margin-top: 10% !important;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+
+  color: #973629 !important;
+}
+
+.Party1 {
+  font-family: 'Poppins' !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  line-height: 16px !important;
+  margin-top: 20% !important;
+  display: flex !important;
+  align-items: center !important;
+  color: #B76D00;
+}
+
+.Party2 {
+  font-family: 'Poppins' !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  line-height: 16px !important;
+  margin-top: 20% !important;
+  display: flex !important;
+  align-items: center !important;
+  color: #03C39A;
+}
+
+.Party3 {
+  font-family: 'Poppins' !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  line-height: 16px !important;
+  margin-top: 20% !important;
+  display: flex !important;
+  align-items: center !important;
+  color: #973629;
+}
+
+.quantity {
+  font-family: 'Circular Std' !important;
+  font-style: normal !important;
+  font-weight: 450 !important;
+  font-size: 50px !important;
+  line-height: 16px !important;
+  margin-top: 14% !important;
+  display: flex !important;
+  align-items: center !important;
+  text-transform: capitalize;
+
+  color: #7041EE !important;
+}
+
+.section {
+  font-family: 'Poppins' !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  line-height: 16px;
+  margin-top: 22% !important;
+  display: flex;
+  align-items: center;
+  color: #000000 !important;
+}
+
+.nopara{
+  margin-top: 10%;
+  margin-left: 3%;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 550;
+}
+
+@media only screen and (max-width: 600px) {
+  .containerdash {
+    margin-bottom: 5% !important;
+  }
+
+  .mainbox{
+    margin-left: 0% !important;
+    left: 0% !important;
+    position: absolute;
+  }
+
+  .dash{
+    margin-left: 0% !important;
+    left: 10% !important;
+    position: absolute;
+  }
+
+  .boxrujhaan {
+    width: 110%;
+    margin-left: 2% !important;
+    left: 0% !important;
+    height: fit-content !important;
+    margin-bottom: 20% !important;
+  }
+
+  .box3 {
+    width: 300px !important;
+    margin-left: 2.5% !important;
+    margin-bottom: 20% ;
+  }
+
+  .rujhaan1,
+  .rujhaan2,
+  .rujhaan3 {
+    margin-top: 10% !important;
+    height: 100% !important;
+  }
+
+  .section {
+    font-size: 13px !important;
+    margin-top: 35% !important;
+  }
+
+  .quantity{
+    font-size: 30px !important;
+  }
+
+  .percentage, .percentage2, .percentage3{
+    font-size: 30px !important;
+    margin-top: 20% !important;
+  }
+
+  .Party1, .Party2, .Party3{
+    margin-top: 25% !important;
+    font-size: 18px;
+  }
+
+  .partyboxes{
+    width: 130%;
+    margin-bottom: 20%;
+  }
+
+  .headingdash{
+    margin-left: 6%;
+    font-size: 18px;
+  }
+
+  .nopara{
+    margin-left: 10%;
+  }
+}
+
+/* 
+@media only screen and (min-width: 850px),
+(max-width: 950px) {
+  .containerdash {
+    margin-left: 15% !important;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  .containerdash {
+    margin-left: 15% !important;
+    width: 80% !important;
+  } */
+
+  /* .boxrujhaan {
+    margin-bottom: 150px !important;
+  } */
+/* } */
+
+/* @media only screen and (min-width: 760px) and (max-width: 1100px){
+  .containerdash{
+    margin-left: 18% !important;
+    width: 75% !important;
+  }
+} */

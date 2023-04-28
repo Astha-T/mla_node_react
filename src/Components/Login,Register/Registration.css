@@ -1,0 +1,191 @@
+.logo {
+    position: absolute;
+    width: 99.99px;
+    height: 101.49px;
+    left: 500.5px;
+    top: 20px;
+    background-color: #7648F0 !important;
+}
+
+.register {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 647px;
+    height: 414px;
+    left: 249px;
+    top: 134px;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    box-shadow: 0px 4px 42px rgba(0, 0, 0, 0.07);
+    border-radius: 38px;
+}
+
+.headingr {
+    position: absolute;
+    width: 209px;
+    height: 22px;
+    left: 291px;
+    top: 173px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 22px;
+    /* identical to box height, or 110% */
+
+    text-transform: capitalize;
+
+    color: #000000;
+}
+
+.namelable {
+    position: absolute;
+    width: 43px;
+    height: 21px;
+    left: 291px;
+    top: 224px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.mobilelable {
+    position: absolute;
+    width: fit-content;
+    height: 21px;
+    left: 586px;
+    top: 224px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.emaillable {
+    position: absolute;
+    width: fit-content;
+    height: 21px;
+    left: 291px;
+    top: 316px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.passlable {
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    left: 586px;
+    top: 316px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.inputname {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 270px;
+    height: 44px;
+    left: 300px;
+    top: 252px;
+
+    opacity: 0.4;
+    border: 1px solid #000000;
+    border-radius: 7px;
+}
+
+.inputemail {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 270px;
+    height: 44px;
+    left: 300px;
+    top: 344px;
+
+    opacity: 0.4;
+    border: 1px solid #000000;
+    border-radius: 7px;
+}
+
+.inputpass {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 270px;
+    height: 44px;
+    left: 596px;
+    top: 344px;
+
+    background: #FFFFFF;
+    opacity: 0.4;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 7px;
+}
+
+.inputmobile {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 270px;
+    height: 44px;
+    left: 596px;
+    top: 252px;
+
+    opacity: 0.4;
+    border: 1px solid #000000;
+    border-radius: 7px;
+}
+
+.registerr {
+    position: absolute;
+    width: 565px;
+    height: 44px;
+    left: 300px;
+    top: 424px;
+    background: #FEA725;
+    border-radius: 7px;
+}
+
+.loginr {
+    position: absolute;
+    width: 565px;
+    height: 44px;
+    left: 300px;
+    top: 483px;
+
+    background: #F4F4F4;
+    border-radius: 7px;
+}

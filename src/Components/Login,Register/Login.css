@@ -1,0 +1,213 @@
+body {
+    background-color: #7648F0 !important;
+  }
+
+.containerlogin{
+    background-color: #7648F0 !important;
+}
+
+.form{
+    box-sizing: border-box;
+    width: 130% !important;
+    display: block !important;
+    height: 335px;
+    top: 141px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    box-shadow: 0px 4px 42px rgba(0, 0, 0, 0.07);
+    border-radius: 38px;
+    margin-bottom: 28%;
+}
+
+.logologin {
+    background-color: #7648F0 !important;
+    margin-left: 25% !important;
+    padding-top: 15%;
+} 
+
+.MuiInputBase-root{
+    width: 95%; 
+    border-radius: 7px !important;
+}
+
+.heading6 {
+    position: absolute;
+    margin-left: 25px !important;
+    margin-top: 20px !important;
+    font-family: 'Poppins';
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    line-height: 22px !important;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+
+.inputbox{
+   width: 95%; 
+   margin-top: 40px !important;
+   height: 40px !important;
+   margin-left: 10px !important;
+   padding-top: 0% !important;
+   border-radius: 7px !important;
+   border: gray !important;
+   font-family: 'Poppins';
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 13px !important;
+    line-height: 20px !important;
+}
+
+.inputboxlabel{
+    font-family: 'Poppins';
+    margin-top: 35px !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 13px !important;
+    line-height: 20px !important;
+    color: gray !important;
+    margin-left: 10px !important;
+}
+
+
+.inputbox2{
+    width: 95% !important; 
+   margin-top: 40px !important;
+   height: 44px !important;
+   margin-left: 10px !important;
+   border-radius: 7px !important;
+   border: gray !important;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 13px !important;
+    line-height: 20px !important;
+}
+
+.inputboxlabel2{
+    border-radius: 37px !important;
+    margin-top: 37px !important;
+    font-family: 'Poppins';
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 13px !important;
+    line-height: 20px !important;
+    color: gray !important;
+    margin-left: 10px !important;
+ }
+ .check{
+   margin-left: 20px !important;
+   margin-top: 45px !important;
+   position: absolute;
+   font-family: 'Poppins' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 13px !important;
+    line-height: 20px !important;
+ }
+
+ .remember{
+    font-family: 'Poppins';
+    font-style: normal;
+    text-align: left;
+    font-weight: 400 !important;
+    font-size: 13px !important;
+    line-height: 20px;
+    margin-top: -5.5% !important;
+    margin-left: 9% !important;
+ }
+
+ .loginbuttton{
+    width: 92%; 
+    margin-top: 15px !important;
+    margin-left: 15px !important;
+    background: #FEA725 !important;
+    border-radius: 7px !important;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    text-decoration: none !important;
+    text-align: center !important;
+    height: 40px !important;
+    border: none;
+    color: #FBFBFB !important;
+ }
+
+.boxlogin{
+    height: 20px !important;
+    border-radius: 50px !important;
+}
+
+.registerbuttton{
+    width: 92%; 
+    height: 40px !important;
+    margin-top: 0px !important;
+    margin-left: 15px !important;
+    border-radius: 7px !important;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    text-decoration: none !important;
+    text-align: center !important;
+    /* identical to box height */
+    border: none;
+    background: #F4F4F4 !important;
+    color: #000000 !important;
+}
+
+.email {
+    position: absolute;
+    width: fit-content;
+    height: 21px;
+    margin-top: 50px !important;
+    margin-left: 25px !important;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 13px !important;
+    line-height: 20px;
+    color: #000000;
+}
+
+.password {
+    position: absolute;
+    width: fit-content;
+    height: 21px;
+    margin-top: 55px !important;
+    margin-left: 25px !important;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 13px !important;
+    line-height: 20px;
+    color: #000000;
+}
+
+.disablelink{
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+@media only screen and (max-width: 600px){
+    .form{
+        width: 110% !important;
+        left: 10px !important;
+        margin-bottom: 50%;
+    }
+
+    .logologin{
+       left: 20% !important;
+    }
+    
+    .remember{
+        margin-top: -7.5%  !important;
+        margin-left: 12.5% !important;
+    }
+    
+}

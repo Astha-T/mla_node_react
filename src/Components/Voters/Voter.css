@@ -1,0 +1,11 @@
+.votertable{
+    border-bottom: #FFFFFF!important;
+    border-radius: 20px;
+    width: 96%;
+    margin-left: 1%;
+    border-radius: 26px 26px 26px 26px;
+}
+
+#headingvoters{
+    margin-left: 2% !important;
+}

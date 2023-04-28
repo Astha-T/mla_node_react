@@ -1,0 +1,84 @@
+.header{
+    background-color: #FFFFFF !important;
+    height: 62px !important;
+    width: 100% !important;
+}
+
+.MuiAvatar-root{
+    right: 0px !important;
+    top: 12px;
+    border: 1px solid #7041EE !important;
+    float: right !important;
+}
+
+ .avatar {
+    position: absolute !important;
+width: 35px;
+height: 35px;
+right: 30%;
+border: 1px solid #7041EE !important;
+margin-right: 7.5%;
+margin-left: 89.2%;
+float: right !important;
+}
+
+ .btn{
+    position: absolute !important;
+   right: 0%;
+top: 2% !important;
+font-family: 'Circular Std';
+font-style: normal;
+font-weight: 450;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 160% */
+
+
+color: #677586;
+
+}
+
+@media only screen and (max-width: 600px) {
+.header{
+    height: 50px !important;
+    margin-top: 0 !important;
+    top: 0 !important;
+}
+
+.avatar{
+    margin-top: 0% !important;
+    top: 5px !important;
+    margin-right: -6%;
+}
+
+.MuiAvatar-root{
+    right: 105px !important;
+}
+
+
+.btn{
+    top: 1% !important;
+    right: -5%;
+}
+
+}
+
+@media only screen and (min-width: 760px) and (max-width: 1100px){
+    .btn{
+        top: 1% !important;
+        right: -8%;
+    }
+
+    .avatar{
+        margin-top: 0% !important;
+        top: 10px !important;
+        margin-right: 5%;
+    }
+
+    .header{
+        width: 100% !important;
+        margin-left: 10%;
+    }
+
+}
+

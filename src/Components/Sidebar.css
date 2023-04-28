@@ -1,0 +1,351 @@
+
+.side{
+   position: fixed;
+width: 13.6% !important;
+height: 100%;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #6E3FEE 0%, #5821EB 100%);
+border-radius: 0px 34px 34px 0px;
+}
+
+link:hover{
+    opacity: 0.6 !important;
+}
+
+.logo2{
+   position: fixed;
+width: 12% !important;
+height: 44.33px !important;
+left: 0.5% !important;
+top: 9.49px;
+}
+
+.titlelogo{
+    
+position: absolute;
+width: 104px;
+height: 38px;
+left: 50px !important;
+top: 10px !important;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px !important;
+line-height: 15px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.img1_1{
+   position: fixed;
+    margin-left: 15px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 35px !important;  
+}
+
+.img1_2{
+   position: fixed;
+    margin-left: 23px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 35px !important;  
+}
+
+.img1_3{
+   position: fixed;
+    margin-left: 23px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 43px !important;  
+}
+
+.img2{
+   position: fixed;
+    margin-left: 15px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    border: 1.5px solid #FFFFFF;
+    margin-top: 85px !important;
+}
+
+.img3{
+   position: fixed;
+    margin-left: 14px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 134px !important;
+   height: 15px !important;
+}
+
+.img4{
+   position: fixed;
+    margin-left: 14px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 180px !important;
+   height: 15px !important;
+}
+
+.img5{
+   position: fixed;
+    margin-left: 12px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 228px !important;
+   height: 15px !important;
+}
+.img6{
+   position: fixed;
+    margin-left: 12px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 278px !important;
+   height: 15px !important;
+}
+.img13{
+    position: fixed;
+     margin-left: 12px !important;
+     margin-right: 0%;
+     margin-bottom: 0px;
+     margin-top: 330px !important;
+    height: 15px !important;
+ }
+.img7{
+   position: fixed;
+    margin-left: 13px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 33px !important;
+}
+.img8{
+   position: fixed;
+    margin-left: 22px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 82px !important;
+}
+
+.img9{
+   position: fixed;
+    margin-left: 13px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 132px !important;
+}
+
+.img10{
+   position: fixed;
+    margin-left: 13px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 178px !important;
+}
+
+.img11{
+   position: fixed;
+    margin-left: 11px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 226px !important;
+}
+
+.img12{
+   position: fixed;
+    margin-left: 11px !important;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-top: 275px !important;
+}
+.img14{
+    position: fixed;
+     margin-left: 11px !important;
+     margin-right: 0%;
+     margin-bottom: 0px;
+     margin-top: 327px !important;
+ }
+.navbtn1 ,.navbtn2, .navbtn3, .navbtn4, .navbtn5, .navbtn6{
+    border: none !important;
+    
+    width: 150px;
+    height: fit-content;
+}
+
+.navbtn1 .option1{
+   position: fixed;
+width: 104px;
+height: 35px;
+left: 35px !important;
+top: 104px;
+border: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px !important;
+line-height: 15px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.navbtn2 .option2{
+   position: fixed;
+width: 137px;
+height: 41px;
+left: 35px !important;
+top: 150px;
+border: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px !important;
+line-height: 15px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.navbtn3 .option3{
+   position: fixed;
+width: 137px;
+height: 38px;
+left: 35px !important;
+top: 199px;
+border: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px !important;
+line-height: 15px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.navbtn4 .option4{
+   position: fixed;
+width: 137px;
+height: 38px;
+left: 35px !important;
+top: 294px !important;
+border: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px !important;
+line-height: 15px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.navbtn5 .option5{
+   position: fixed;
+width: 137px;
+height: 38px;
+left: 35px !important;
+top: 343px !important;
+border: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px !important;
+line-height: 15px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.navbtn7 .option7{
+    position: fixed;
+ width: 137px;
+ height: 38px;
+ left: 35px !important;
+ top: 383px !important;
+ border: none;
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 13px !important;
+ line-height: 15px;
+ /* or 111% */
+ 
+ display: flex;
+ align-items: center;
+ 
+ color: #FFFFFF;
+ }
+
+.navbtn6 .option6{
+   position: fixed;
+width: 137px;
+height: 38px;
+left: 35px !important;
+top: 245px !important;
+border: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px !important;
+line-height: 15px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+hr{
+    color: gray;
+    margin-top: 60px;
+}
+
+@media only screen and (max-width: 600px) {
+    .side{
+         display: none;
+        width: 0% !important; 
+    }
+
+    /* body{
+        width: 0% !important; 
+    } */
+}
+
+@media only screen and (max-width: 950px) {
+    .side{
+        width: 16.5% !important;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    .side{
+        width: 17.5% !important;
+    }
+}
+
+

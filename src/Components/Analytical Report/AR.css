@@ -1,0 +1,284 @@
+.containergrid {
+    width: 100%;
+    border-radius: 37px !important;
+    margin-left: 0% !important;
+    margin-top: 0.25% !important;
+    display: block !important;
+    height: fit-content;
+}
+
+.headinganalytic {
+    width: '50%' !important;
+    height: 38px;
+    margin-left: 2.5% !important;
+    margin-top: 1% !important;
+    background-color: #F8F8F8 !important;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 15px;
+    line-height: 16px;
+    /* or 107% */
+    display: flex;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.analyticdiv,
+.analyticdiv2,
+.analyticdiv3 {
+    margin-left: 0%;
+    width: 140% ;
+}
+
+.analyticdiv{
+    margin-bottom: 5%;
+}
+
+.analyticdiv2 {
+    margin-top: 4%;
+}
+
+.analyticSelect {
+    border-radius: 20px !important;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 1.25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: '#F8F8F8' !important;
+}
+
+.analyticsubmit {
+    margin-top: 33% !important;
+    height: 40%;
+    margin-left: 10% !important;
+    border-radius: 8px !important;
+    text-transform: none !important;
+}
+
+.textpaper, .textpaperage, .textpaperprabhav, .textpapercaste, .textpaperfinancial {
+    font-family: 'Poppins' !important;
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    font-weight: 550 !important;
+    letter-spacing: 0.25px;
+    color: rgba(0, 0, 0, 0.87);
+    padding: 8%;
+}
+
+.imagea {
+    border-radius: 50% !important;
+    padding: 15%;
+    height: 65%;
+    margin-top: 27%;
+    margin-right: 5%;
+}
+
+.imagec {
+    border-radius: 50% !important;
+    margin-top: 27%;
+    padding: 15%;
+    height: 70%;
+    width: 78%;
+    margin-right: 5%;
+}
+
+.imageb {
+    border-radius: 50% !important;
+    font-size: 300% !important;
+    margin-right: 5%;
+    margin-top: 25%;
+    padding: 15%;
+}
+
+.papergrid {
+    height: 100px !important;
+    cursor: pointer !important;
+    border-radius: 20px !important;
+    width: 90%;
+    vertical-align: middle !important;
+    line-height: normal;
+    padding-top: 3%;
+    margin-bottom: 10%;
+}
+
+.css-17zcy27.Target-root {
+    font-size: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .containergrid,
+    .analyticdiv {
+        left: 0% !important;
+        margin-left: 0% !important;
+        top: 16% !important;
+        padding-bottom: 1%;
+    }
+
+    .headinganalytic {
+        margin-left: 7% !important;
+        margin-top: 5% !important;
+    }
+
+    .analyticdiv {
+        width: 90%;
+    }
+
+    .analyticdiv2 {
+        margin-top: 10%;
+        left: 0% !important;
+        margin-left: 0%;
+        width: 90% !important;
+    }
+
+    .analyticdiv3 {
+        left: 0% !important;
+        width: 90% !important;
+        margin-top: 5% !important;
+    }
+
+    .css-17zcy27.Target-root {
+        font-size: 46% !important;
+        font-weight: 800 !important;
+    }
+
+    .analyticSelect {
+        border-radius: 20px !important;
+        width: 120% !important;
+        margin-bottom: 2%;
+        margin-top: 2%;
+    }
+
+    .textpaper, .textpaperage, .textpaperprabhav, .textpapercaste, .textpaperfinancial  {
+        font-size: 15px !important;
+        width: 80%;
+        justify-content: center;
+        align-items: center;
+        font-weight: 550 !important;
+    }
+
+    .textpaper{
+        padding: 5% 8%;
+    }
+
+    .papergrid {
+        height: 75px !important;
+    }
+
+    .imageb {
+        margin-right: 15% !important;
+        font-size: 220% !important;
+        margin-top: 35%;
+    }
+
+    .imagea{
+        height: 50%;
+        margin-top: 35%;
+    }
+
+    .imagec{
+        height: 55%;
+        margin-top: 37%;
+    }
+
+    .textpaperage, .textpaperprabhav{
+        padding: 10% 8% !important;
+    }
+
+   .textpapercaste, .textpaperfinancial{
+        padding: 1.5% 8% !important;
+    }
+
+    .analyticsubmit {
+        margin-top: 2% !important;
+        margin-left: 5.5% !important;
+        height: 90%;
+        margin-bottom: 2%;
+    }
+
+}
+
+@media only screen and (min-width: 760px) and (max-width: 900px){
+    .analyticdiv{
+        margin-left: 0%;
+        width: 102%;
+    }
+
+    .analyticSelect{
+        margin-left: 2%;
+        width: 90% !important;
+    }
+
+    .analyticsubmit{
+        margin-top: 19% !important;
+    }
+
+    .headinganalytic{
+        margin-left: 4% !important;
+    }
+
+    .analyticdiv2{
+        margin-left: 0%;
+        width: 105%;
+    }
+
+    .analyticdiv3{
+        margin-left: 0%;
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .imagea{
+        height: 50%;
+    }
+
+    .imageb{
+       padding: 20% !important;
+    }
+
+    .textpapercaste{
+        padding: 3.4%;
+    }
+
+}
+
+@media only screen and (min-width: 910px) and (max-width: 1200px)
+{
+    .analyticdiv{
+        margin-left: 0%;
+        width: 120%;
+    }
+
+    .analyticSelect{
+        margin-left: 2%;
+        width: 80% !important;
+    }
+
+    .analyticsubmit{
+        margin-top: 35% !important;
+    }
+
+    .headinganalytic{
+        margin-left: 28% !important;
+    }
+
+    .analyticdiv2{
+        margin-left: 11%;
+        width: 120%;
+    }
+
+    .analyticdiv3{
+        margin-left: 10%;
+        width: 120%;
+    }
+
+    .imagea{
+        height: 50%;
+    }
+
+    .textpapercaste{
+        padding: 3.4%;
+    }
+}

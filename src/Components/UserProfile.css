@@ -1,0 +1,77 @@
+body {
+    background-color: #F8F8F8 !important;
+}
+
+
+.profile {
+    font-family: 'Poppins' !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    margin-left: 15px !important;
+    font-size: 15px !important;
+    font-weight: 800 !important;
+}
+
+.textfield {
+    border-radius: 30px !important;
+    height: 40px !important;
+    border: gray !important;
+    width: 150%;
+}
+
+.textfield2 {
+    border-radius: 30px !important;
+    height: 40px !important;
+    border: gray !important;
+    margin-top: 0px !important;
+    width: 150%;
+}
+
+.labelstyle{
+    font-family: 'Poppins' !important;
+    font-style: normal;
+    font-weight: 500 !important ;
+    font-size: 15px !important;
+    line-height: 19px;
+    color: #163560 !important;
+}
+
+.profilebtn {
+    width: 129px;
+    height: 40px;
+    margin-top: 20px !important;
+    margin-left: 10px !important;
+    font-family: 'Poppins' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 13px !important;
+    line-height: 19px !important;
+    border: none !important;
+    display: flex !important;
+    align-items: center !important;
+    text-align: center !important;
+    color: #FFFFFF !important;
+    background: #7041EE !important;
+    border-radius: 26px !important;
+    float: left !important;
+}
+
+.changeprofilebox {
+    width: 100px !important;
+}
+
+.profilegridbox{
+    background-color: #FFFFFF !important;
+    height: 100px !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .profilebox {
+        margin-left: 0% !important;
+    }
+
+    .textfield,
+    .textfield2 {
+        width: 170% !important;
+    }
+}
